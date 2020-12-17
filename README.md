@@ -1,2 +1,2 @@
 # Titanic
-Machine learning playground for the titanic dataset
+Doing titanic using pipelines
